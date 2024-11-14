@@ -1,2 +1,2 @@
 # Weather-App
-"CK Collections is a sleek React-based e-commerce site offering stylish clothing for men, women, and kids, with an easy shopping experience and secure checkout."
+A weather app in React displays current weather information by fetching data from a weather API and updating the UI based on user input or location.
